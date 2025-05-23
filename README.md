@@ -1,4 +1,4 @@
-# gerador-de-conselhos
+# Gerador de Conselhos
 
 <img src="./src/images/teste-do-click.gif" alt="Exemplo de funcionamento do botão de click"/>
 
