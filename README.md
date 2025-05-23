@@ -3,3 +3,13 @@
 <img src="./src/images/teste-do-click.gif" alt="Exemplo de funcionamento do botão de click"/>
 
 Apenas uma prática feita durante os estudos que ajuda a pegar o costume do uso no GitHub.
+
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- JS
+
+## Autor
+
+Vitor da Rosa - [Github](https://github.com/vtuRose)
